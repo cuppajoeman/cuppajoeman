@@ -1,16 +1,56 @@
-### Hi there 👋
-
-<!--
-**cuppajoeman/cuppajoeman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+ooooo+++++///////////////////////////////////////////////+++++++++++++++oooooooooooossssssssssssssyy
+oooo+++++/////////////////////////////////////////////////////++++++++++++oooooooooooosssssssssssssy
+oooo++++///////////////////::::::::::::://///////////////////////+++++++++++ooooooooooooosssssssssss
++++++++///////////////::::/::::::::::::::::::///////////////////////++++++++++oooooooooooossssssssss
+++++++//////////////::::::/::::::::::::::::::::////////////////////////+++++++++oooooooooooossssssss
++++////////////////:::::::/::::::::::::::::::://+++oooo////://///////////+++++++++oooooooooossssssss
+////////////////::::::::::/::::::::::::://+++osyyhyyhhhhsso+/::////////////+++++++ooooooooooosssssss
+//////////////::::::::::::/::::::::::/+ssyyyyhhyyyhdNNNNmmyso+/::///////////+++++++ooooooooooossssss
+///////////:::::::::::::::/::::::::/oyyyyyhhhhyydddNNNNNNNmdyso//:://////////++++++++oooooooooosssss
+////////::::::::::::::::::/:::----:/shhddhhhhhhdhhdmdhhddmNNddhyo//:://///////++++++++ooooooooosssss
+///::::::::::::::::::::::::-------+sddmdddhddhhyyhyo/::://ohdhhddy+/:::////////++++++++ooooooooossss
+:::::::::::::::::::::::---:------/ydmmmmmmddhhhhhso/:-::--:/ohhdmNdo/:::////////++++++++oooooooossss
+:::::::::::::::::::::-----:-----:hddmmmmmdddddhhs+//:-----::/oydmNNNy::::///////++++++++oooooooossss
+::::::::::::::::::::------:-----+hmmmmmdmmdddyso/::::------:/+oymNMNN+:::////////+++++++oooooooossss
+::::::::::::::::::--------:-----ohdddhhyyssso+/:-.--------:://+sdNNNm/::::///////+++++++ooooooooosss
+:::::::::::::::::---------:-----odmdsoo+oooss+//:------::::://+sdNNm+:::::://////++++++++oooooooosss
+:::::::::::::::-----------:-----sdms/++/////osyso+/::/ooossooooydNNN/::::::///////+++++++oooooooosss
+::::::::::::::------------:-----sdy////+ooosoooo+/:-/shhhysssyhyhNmh:::::::///////+++++++oooooooosss
+::::::::::::--------------:----++h+:::::++oso+/:::--+ssssyooosyddNo::::::::///////++++++++ooooooosss
+:::::::::::---------------:---:+/y/::-----------::-:++/++shyhhyhdm:::::::::://////+++++++oooooooosss
+::::::::::----------------:----:/s/::----....--:::::++/::://+++sdh:::::::::://////+++++++oooooooosss
+::::::::::----------------:-----:o//::-----.--:/:--:/o/::::::/+sdh:::::::::://////+++++++oooooooosss
+::::::::::----------------:----:-+//:::------:/so/:/os+::::///oyho:::::::::://////+++++++ooooooossss
+::::::::::----------------:-----:++/:::------:+oosyhmho::::/+oyho:::::::::::///////+++++oooooooossss
+:::::::::-----------------:------/o+/:::--:::/++//osys/:::/+oshh/:::::::::::///+/:/+++++oooooooossss
+:::::::::-----------------:------+s+//:::/++/+++///+ooo+//+osyho:::::::::::://++/:+++++ooooooooossss
+:::::::::-----------------:------/soo+//+oooosooosyyhysss+osyh:::::::::::::///++///++++oooooooosssss
+:::::::::-----------------:------:yyso++o+::::///+/+ossshyyhdo:::::::::::::///o+/::/+++ooooooossssss
+:::::::::::---------------:-------yhyso+o+//::/osyysso+ohhhmh::::::::::::::///+o+:::/+oooooooossssss
+:::::::::::---------------:------:/hddysyso+/++++ossosyhddmh:::::::::::::://///o+/::/+ooooooosssssss
+:::::::::::---------------/:-----::/ymmddyyooo+//+ssshdmNNh/::::::::::::://////+s/::::+oooooosssssss
+:::::::::::::----------:+yddh+/::::-/odmmdhyyyssosyhhdmNms//::::::::::://///////o+:::-:ooooossssssss
+::::::::::::::------::/ymNNNNmms/:---:/shdmmmmmdddmmmNNNms+/:::::::::///:+o/////o+:----:ooosssssssyy
+:::::::::::::::---/shdmNNNmmmmmh+:----:/+shddmmmNNNNNNmNNNs///:::::/:::shhy/////+/-----:/oossssssyyy
+::::::::::::::::-+mNNNNNNNNNNNmmdho/:--::/+osyyyhhdmmdmMNNd+//////::---------:::::::---::+ssssssyyyy
+:::::::::::::::::hNNNNNNNNNNNNNNNNmmhs+/:://+++++oydhhNNNNNds/////:------------.---::::::/osssssyyyy
+:::::::::::::::::dmmmmmmmmNNmmmNNNNNNNNdy+////+ooyhyhdNNNNNNmssyhh/:------::---...-::/:://+sssssyyyy
+::::::::::/+ooyyhmmmmmmmmmmNNNNmmmNNNNNmhddhs+++symdmmmNNNNNNNmmmh+::::::///:------:://///+osssyyyyy
+::::/+oydmmmmmmmmmmmmmmmmmmmmmNNNNmmNNNmmmmNNmhyhmNNNNmNNMMNNNNm+---------::------::://++++ossyyyyyy
+yhddmmmmmmmmmmmmmNNNmmmmmmmmmmmmNNNNNNNNNNmNNNNNNNNNNmmNNNNNNNNm/::::--------------:://+++++ossyyyyy
+mmmmmmmmmmmmmmmmNNNNmmmmmmmmmmmmmmNNNNNNNNmmmNNNNNmmNNmNNNNNNNNNdo+////:::::------::///+++++oooosyyy
+mmmmmmmmmmmmmmmNNNNmmmmmmmmmmmmmmmmmmmmmmNmdNNNNmmmmmNmmNNNNNNNNNy++oooo+oo+///:-::/+++++++oooooooos
+NmmmmmmmNNmmmmNNNNNNmmmmmmmmmmmmmmmmmmmmmmmhNNmmmmmmNNNmNNNNNNNNm/::::://+ooooooo++oooooooooooooooo+
+NmmmNNNNNNNmNNNNNNNmmmmmmmmmmmmmmmmmmmmNmmmhNNmmmmmmNNNNNNNNNNMNNs+//::---:::::://+ooooooooooooooooo
+mmmNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmNNmmmmmmmNNNNNNNNNNNNNNdhso+//:::------:++oooooooooooooso
+mmmNNNNNNNNNNNNNNNNNmNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNNmsosssoo+/:---:/+oooooosssssossso
+mmmNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNMMy:::/+oosso+/++osssssssssssssysso
+mmmNNNNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNMMMms+:::::/++++ossssssyyyyyyhyyyyys
+mmmNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNmNNNNNNNNNNNNMMMMNdyo//::::://+oossyyyyhhhhhhhhyy
+NmmNNNNNNNNNNNNNNmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmmNNNNNNNNNNNNNNMMMMMMNmhyo+//:///+ossyyyhhhhhhhyyss
+NmmNNNNNNNNNNNNNNmNmmNmmmmmmmmmmmmmmmmmmmmmmmNmmmmNNNNNNNNNNNNNNMMMMMMMMMNNdhyssssyyyyhhhdddmmmdhyyy
+NmmNNNNNNNNNNNNNNNNNNNNNmmmmmmmmmmmmNNNNNNNNNNNmNNNNNNNNNNNNNNNNMMMMMMMMMMMMMNmmmmddddmmmmNNMMNNmmmm
+NmmmNNNNNNNNNNNNNNNNNNNNmNmmmmmmmNmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMNNNMMMMMMMMMNNNmm
+NNmmNNNNNNNNNNNNNNNNNNNNNNmmmmmmmNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMMNNN
+```
