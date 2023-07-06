@@ -5,17 +5,17 @@ oooo++++///////////////////::::::::::::://///////////////////////+++++++++++oooo
 +++++++///////////////::::/::::::::::::::::::///////////////////////++++++++++oooooooooooossssssssss
 ++++++//////////////::::::/::::::::::::::::::::////////////////////////+++++++++oooooooooooossssssss
 +++////////////////:::::::/::::::::::::::::::://+++oooo////://///////////+++++++++oooooooooossssssss
-////////////////::::::::::/::::::::::::://+++osyyhyyhhhhsso+/::////////////+++++++ooooooooooosssssss
-//////////////::::::::::::/::::::::::/+ssyyyyhhyyyhdNNNNmmyso+/::///////////+++++++ooooooooooossssss
-///////////:::::::::::::::/::::::::/oyyyyyhhhhyydddNNNNNNNmdyso//:://////////++++++++oooooooooosssss
-////////::::::::::::::::::/:::----:/shhddhhhhhhdhhdmdhhddmNNddhyo//:://///////++++++++ooooooooosssss
-///::::::::::::::::::::::::-------+sddmdddhddhhyyhyo/::://ohdhhddy+/:::////////++++++++ooooooooossss
-:::::::::::::::::::::::---:------/ydmmmmmmddhhhhhso/:-::--:/ohhdmNdo/:::////////++++++++oooooooossss
-:::::::::::::::::::::-----:-----:hddmmmmmdddddhhs+//:-----::/oydmNNNy::::///////++++++++oooooooossss
-::::::::::::::::::::------:-----+hmmmmmdmmdddyso/::::------:/+oymNMNN+:::////////+++++++oooooooossss
-::::::::::::::::::--------:-----ohdddhhyyssso+/:-.--------:://+sdNNNm/::::///////+++++++ooooooooosss
-:::::::::::::::::---------:-----odmdsoo+oooss+//:------::::://+sdNNm+:::::://////++++++++oooooooosss
-:::::::::::::::-----------:-----sdms/++/////osyso+/::/ooossooooydNNN/::::::///////+++++++oooooooosss
+////+--------------------+/::::::::::::://+++osyyhyyhhhhsso+/::////////////+++++++ooooooooooosssssss
+////|alias:              |/::::::::::/+ssyyyyhhyyyhdNNNNmmyso+/::///////////+++++++ooooooooooossssss
+////|    cuppajoeman     |/::::::::/oyyyyyhhhhyydddNNNNNNNmdyso//:://////////++++++++oooooooooosssss
+////|                    |/:::----:/shhddhhhhhhdhhdmdhhddmNNddhyo//:://///////++++++++ooooooooosssss
+///:|website:            |:-------+sddmdddhddhhyyhyo/::://ohdhhddy+/:::////////++++++++ooooooooossss
+::::|    alias + ".com"  |:------/ydmmmmmmddhhhhhso/:-::--:/ohhdmNdo/:::////////++++++++oooooooossss
+::::|                    |:-----:hddmmmmmdddddhhs+//:-----::/oydmNNNy::::///////++++++++oooooooossss
+::::|contact:            |:-----+hmmmmmdmmdddyso/::::------:/+oymNMNN+:::////////+++++++oooooooossss
+::::|    discord         |:-----ohdddhhyyssso+/:-.--------:://+sdNNNm/::::///////+++++++ooooooooosss
+::::|                    |:-----odmdsoo+oooss+//:------::::://+sdNNm+:::::://////++++++++oooooooosss
+::::+--------------------+:-----sdms/++/////osyso+/::/ooossooooydNNN/::::::///////+++++++oooooooosss
 ::::::::::::::------------:-----sdy////+ooosoooo+/:-/shhhysssyhyhNmh:::::::///////+++++++oooooooosss
 ::::::::::::--------------:----++h+:::::++oso+/:::--+ssssyooosyddNo::::::::///////++++++++ooooooosss
 :::::::::::---------------:---:+/y/::-----------::-:++/++shyhhyhdm:::::::::://////+++++++oooooooosss
